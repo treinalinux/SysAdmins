@@ -3,7 +3,7 @@
 # Data 07/01/2020
 # Criado por Alan da Silva Alves
 # criar_bridge version 1.0
-# Programa criado para o ubuntu 20.04
+# Programa criado para o ubuntu 20.04 e sistemas com Network Manager
 # 
 # Você receber os valores da sua rede:
 # 
